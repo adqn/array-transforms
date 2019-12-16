@@ -12,8 +12,8 @@ only does clockwise rotation through 45 and 90 degrees at the moment
 [0, 0, 0, 0, 0, 0, 0, 0, 0]<br>
 [0, 0, 0, 0, 0, 0, 0, 0, 0]<br>
 <br><br>
-|
-V
+|<br>
+V<br>
 <br><br>
 [1, 0, 0, 0, 0, 0, 0, 0, 0]<br>
 [0, 1, 0, 0, 0, 0, 0, 0, 0]<br>
